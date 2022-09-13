@@ -4,4 +4,4 @@
 3) Wrote Python scripts to analyze rumor & non-rumor tweets regarding topic trends, hashtags, sentiment and user attributes.
 
 
-Authors: Cheng,A., Qu, X., Zhang, K.
+### Authors: Cheng,A., Qu, X., Zhang, K.
